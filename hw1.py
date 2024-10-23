@@ -3,7 +3,7 @@ import data
 # Write your functions for each part in the space below.
 
 # Part 1
-
+def vowel_count
 
 # Part 2
 
